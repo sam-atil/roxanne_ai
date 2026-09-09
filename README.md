@@ -1,4 +1,4 @@
-##Roxanne
+## Roxanne
 
 Roxanne is a locally hosted, modular AI assistant designed to assist me in machine learning, software engineering, and electronics engineer projects. 
 She is capable of conversational interactions while keeping user data and processing on the local machine. 
@@ -6,7 +6,7 @@ She is capable of conversational interactions while keeping user data and proces
 The project uses Python and Ollama as a foundation to run local LLMs, with SQLite3 providing persistent conversation memory. 
 The architecture is designed to be extensible, allowing for future features such as handling tasks such as function execution, voice to text inputs, and text to voice outputs. 
 
-/# Current Features
+# Current Features
 - Local LLM inference through Ollama
 - Persistent conversation history using SQlite3
 - Modular Python Architecture
